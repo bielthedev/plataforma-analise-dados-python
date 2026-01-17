@@ -1,6 +1,6 @@
 # 📊 Plataforma de Análise de Dados em Python
 
-![Banner]()
+![Banner](https://github.com/bielthedev/plataforma-analise-dados-python/blob/main/banner.png?raw=true)
 
 ## 🚀 Visão Geral
 
