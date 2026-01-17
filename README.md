@@ -1,6 +1,6 @@
 # 📊 Plataforma de Análise de Dados em Python
 
-![Banner do Projeto](assets/banner.png)
+![Banner]()
 
 ## 🚀 Visão Geral
 
